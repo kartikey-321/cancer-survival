@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(33, 33, 126);
+}
+.headers{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    font-size: 60px;
+}
+.a{
+    margin-top: 7px;
+    text-align: center;
+}
+select {
+    text-align: center;
+    text-align-last: center;
+  }
+option {
+    text-align: left;
+}
+.r{
+    margin-top: 50px;
+}
+h2{
+    color: white;
+    text-align: center;
+}
