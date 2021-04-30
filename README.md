@@ -1,1 +1,1 @@
-# cancer-survival
+# cricket-score-prediction
