@@ -12,5 +12,5 @@ It is a Machine Learning model which predicts predicts the total score in an inn
 If you want to view the deployed model, click on the link given below:
 Deployed at: https://predict-cricket-score.herokuapp.com/
 
-A glipse of the web app is shown below:
+A glipse of the web app is shown below: <br>
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72275085/120092965-83e1b700-c134-11eb-9623-ce49eba0d992.gif)
