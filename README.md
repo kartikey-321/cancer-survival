@@ -13,4 +13,4 @@ If you want to view the deployed model, click on the link given below: <br>
 Deployed at: https://predict-cricket-score.herokuapp.com/
 
 A glipse of the web app is shown below: <br><br>
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72275085/120092965-83e1b700-c134-11eb-9623-ce49eba0d992.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72275085/120093526-834b1f80-c138-11eb-8756-ed362a6b5ad4.gif)
