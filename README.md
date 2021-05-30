@@ -15,4 +15,4 @@ Deployed at: https://predict-cricket-score.herokuapp.com/
 A glipse of the web app is shown below: <br><br>
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/72275085/120093546-a544a200-c138-11eb-9ea1-50c84705ad0c.gif) <br>
 
-<img src="https://user-images.githubusercontent.com/72275085/120093546-a544a200-c138-11eb-9ea1-50c84705ad0c.gif" height=30% width=50%>
+<img src="https://user-images.githubusercontent.com/72275085/120093546-a544a200-c138-11eb-9ea1-50c84705ad0c.gif" height=400px width=400px>
